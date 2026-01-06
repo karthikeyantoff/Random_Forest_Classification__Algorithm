@@ -36,7 +36,7 @@ Deployment: Streamlit Cloud
 Follow these steps to run the project on your local machine:
 
 1️⃣ Clone the Repository
-git clone https://github.com/Nandhakishore-A/Randomforest_classifier.git
+git clone https://github.com/karthikeyantoff/Random_Forest_Classification__Algorithm.git
 cd Randomforest_classifier
 
 2️⃣ Install Dependencies
@@ -47,7 +47,6 @@ pip install -r requirements.txt
 
 3️⃣ Run the Streamlit App
 streamlit run app.py
-
 
 The app will automatically open in your browser.
 
